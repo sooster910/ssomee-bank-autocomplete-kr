@@ -1,0 +1,11 @@
+{
+  "name": "ssomee-bank-autocomplete-kr",
+  "version": "1.0.0",
+  "description": "A helper utility to find a bank name by bank account in korea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyunsu Joo",
+  "license": "ISC"
+}
